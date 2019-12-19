@@ -1,52 +1,12 @@
-body {
-  background-image: url('../img/dogfuny.jpg');
-  background-size: cover;
-  text-align:left;
+.lines {
+  height: 50px;
+  padding-right: 30px;
 }
-h1 {
-  text-decoration:underline;
-  text-align:left;
-  font-size:100px;
-  color:#ffffff;
+.top {
+  width: 98vw;
+  background-color: #4175E3;
+  height: 100px;
 }
-ul {
-  text-align:left;
-}
-li{
-  text-align:left;
-  color:blue;
-}
-.sgame{
-  color:green;
-}
-#funny{
-  color:red;
-}
-a:link {
-  color: red;
-}
-a:visited {
-  color: green;
-}
-a:hover {
-  color: hotpink;
-}
-a:active {
-  color: blue;
-}
-th {
-  color:rgb(12,111,60);
-  background-color:#a1dfff;
-  text-align:left;
-}
-table {
-  border-width:15px;
-  border-color:yellow;
-}
-p {
-  color:#ffffff;
-}
-h2 {
-  font-size:50px;
-  color:#ffffff;
+.main-image {
+  height: 100px;
 }
